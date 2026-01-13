@@ -47,7 +47,10 @@ Contains participant information including:
 
 ## 📊 Dashboard Preview
 
-![Training Engagement Analysis](dashboard.png)
+<p align="center">
+  <img src="ABL_PROJECT/IMAGES/dashboard.png" width="900">
+</p>
+
 
 
 
