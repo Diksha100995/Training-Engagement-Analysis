@@ -47,7 +47,7 @@ Contains participant information including:
 
   ## 📊 Dashboard Preview
 
-![Training Engagement Dashboard][IMAGES](dashboard.png)
+![Training Engagement Dashboard][ABL_PROJECT][IMAGES](dashboard.png)
 
 
 This project simulates a real CRM analytics use-case.
