@@ -45,5 +45,10 @@ Contains participant information including:
 - Gender distribution visualized
 - Non-responders flagged for follow-up
 
+  ## 📊 Dashboard Preview
+
+![Training Engagement Dashboard](dashboard.png)
+
+
 This project simulates a real CRM analytics use-case.
 
