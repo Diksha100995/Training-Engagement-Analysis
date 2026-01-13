@@ -45,9 +45,10 @@ Contains participant information including:
 - Gender distribution visualized
 - Non-responders flagged for follow-up
 
-  ## 📊 Dashboard Preview
+## 📊 Dashboard Preview
 
-!ABL_PROJECT/IMAGES/dashboard.png
+![Training Engagement Analysis](dashboard.png)
+
 
 
 This project simulates a real CRM analytics use-case.
